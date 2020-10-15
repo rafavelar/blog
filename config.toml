@@ -1,8 +1,8 @@
 seURL = "http://example.org/"
 # [en, zh-cn, fr, ...] determines default content language
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
 # language code
-languageCode = "en"
+languageCode = "es"
 title = "Blog de Rafael Avelar"
 
 # Change the default theme to be use when building the site with Hugo
