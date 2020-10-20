@@ -21,6 +21,3 @@ Esta experiencia se la debo a J.J quien me alentó a realizar esta actividad, he
 Esta jornada esta empezando, pero mi experiencia en el desarrollo de software no, hare de este nueva etapa algo util para todos ustedes y principalmente para mí.
 
 > Gracias.
-
-![Thank you!](./gracias.jpg)
-
