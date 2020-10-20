@@ -5,7 +5,7 @@ date: 2020-10-15T17:19:41-05:00
 draft: false
 author: "Rafael Avelar"
 authorLink: "https://rafaelavelar.com"
-description: Bienvenidos a esta etapa.
+description: "Bienvenidos a esta etapa."
 ---
 
 Hola.
