@@ -6,6 +6,9 @@ draft: false
 author: "Rafael Avelar"
 authorLink: "https://rafaelavelar.com"
 description: "Bienvenidos a esta etapa."
+resources:
+- name: "thank-you-image"
+  src: "gracias.jpg"
 ---
 
 Hola.
