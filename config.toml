@@ -1,4 +1,4 @@
-baseURL = "rafavelar.github.io"
+baseURL = "/"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "es"
 # language code
