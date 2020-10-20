@@ -9,6 +9,8 @@ description: "Bienvenidos a esta etapa."
 resources:
 - name: "thank-you-image"
   src: "gracias.jpg"
+
+lightgallery: true
 ---
 
 Hola.
