@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: "Mi primer post"
-date: 2020-10-15T17:19:41-05:00
+date: 2019-07-27T17:19:41-05:00
 draft: false
 author: "Rafael Avelar"
 authorLink: "https://rafaelavelar.com"
